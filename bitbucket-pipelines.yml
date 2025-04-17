@@ -7,5 +7,5 @@
             enabled: false
           script:
             - git clone --mirror https://x-token-auth:"$BITBUCKET_VARIABLES"@bitbucket.org/juvenachegnui/migration_repo_2.git ## @bitbucket.org follow by your Bitbucket repository path
-            - cd aws_project_1.git ## cd followed by your Github repository Name
+            - cd migration_repo_2.git ## cd followed by your Github repository Name
             - git push --mirror https://x-token-auth:"$GITHUB_VARIABLES"@github.com/Achegnui/aws_project_1 ## @github.com followed by your Github repository path
