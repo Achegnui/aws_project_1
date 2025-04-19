@@ -98,4 +98,4 @@ GitHub repository name: ![image](/images/repo%20name.png)
 
 ## Now check your GitHub repository and see that the bitbucket-pipelines.yml was automatically added!
 
-![image](https://github.com/user-attachments/assets/8a498d1b-01c8-4c7e-8594-db7937ccdfd1)
+![image](/images/sync.png)
